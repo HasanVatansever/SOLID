@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace OpenClosed
 {
+    [Obsolete("Use IShape2DVersion2 instead.")]
     interface IShape2D
     {
          double CalculateArea();
        
     }
 }
+    

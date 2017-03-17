@@ -16,7 +16,7 @@ namespace LSP
 
             List<Iy> lll = new List<Iy>();
             lll.Add(c);
-            lll.Add(e);
+         
            
         }
     }
